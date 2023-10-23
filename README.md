@@ -18,7 +18,7 @@
    ```
    git init
    ```
-4. Create a new text file (e.g., `pyfun.py`) and add some content to it.
+4. Create a new file (e.g., `pyfun.py`) and add some content to it.
 5. Add this file to your Git repository:
    ```
    git add pyfun.py
